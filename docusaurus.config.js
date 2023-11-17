@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Rodrigo Corpas',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Dinosaurs nao sao cool',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
